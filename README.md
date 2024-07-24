@@ -8,7 +8,6 @@ LipSyncer Video is an advanced AI model designed to synchronize lip movements wi
 ## Tech Stack
 
 <p align="left"> 
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -18,19 +17,12 @@ LipSyncer Video is an advanced AI model designed to synchronize lip movements wi
     .icon-container {
       display: flex;
       align-items: center;
-      justify-content: center; /* Center the items horizontally */
-      gap: 20px; /* Adjust spacing between icons as needed */
+      gap: 10px; /* Adjust spacing between items as needed */
     }
     .icon-container div {
-      text-align: center; /* Center the text below each icon */
-    }
-    .icon-container img {
-      display: block;
-      margin: 0 auto; /* Center the image */
-    }
-    .icon-container p {
-      margin-top: 5px; /* Adjust spacing between image and text as needed */
-      margin-bottom: 0; /* Remove bottom margin */
+      display: flex;
+      flex-direction: column;
+      align-items: center;
     }
   </style>
 </head>
