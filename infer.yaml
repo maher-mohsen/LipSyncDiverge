@@ -1,0 +1,16 @@
+task_0:
+  video_path: "data/video/video.mp4"
+  audio_path: "data/audio/english.wav"
+
+task_1:
+  video_path: "data/video/video.mp4"
+  audio_path: "data/audio/arabic.wav"
+
+task_2:
+  video_path: "data/video/video.mp4"
+  audio_path: "data/audio/spanish.wav"
+
+task_3:
+  video_path: "data/video/video.mp4"
+  audio_path: "data/audio/kurdi.wav"
+
